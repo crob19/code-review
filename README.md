@@ -1,40 +1,3 @@
-<div align="center">
-<sup>Special thanks to:</sup>
-<br>
-<br>
-<a href="https://www.warp.dev/?utm_source=github&utm_medium=referral&utm_campaign=lazygit_20231023">
-  <div>
-    <img src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png?raw=true" width="400" alt="Warp">
-  </div>
-  <b>Warp, the intelligent terminal</b>
-  <br>
-  <b>Available for MacOS and Linux</b>
-  <br>
-  <div>
-    <sup>Visit warp.dev to learn more.</sup>
-  </div>
-</a>
-<br>
-<hr>
-<a href="https://tuple.app/lazygit">
-  <div>
-    <img src="../assets/tuple.png" width="400" alt="Tuple">
-  </div>
-  <b>Tuple, the premier screen sharing app for developers on macOS and Windows.</b>
-</a>
-<br>
-<hr>
-<br>
-<a href="https://www.subble.com">
-  <div>
-    <img src="../assets/subble.webp" width="400" alt="Subble">
-  </div>
-  <b>I (Jesse) co-founded Subble to save your company time and money by finding unused and over-provisioned SaaS licences. Check it out!</b>
-</a>
-<br>
-
-<hr>
-</div>
 
 <p align="center">
   <img width="536" src="https://user-images.githubusercontent.com/8456633/174470852-339b5011-5800-4bb9-a628-ff230aa8cd4e.png">
@@ -51,15 +14,6 @@ A simple terminal UI for git commands
 
 </div>
 
-## Sponsors
-
-<p align="center">
- Maintenance of this project is made possible by all the <a href="https://github.com/jesseduffield/lazygit/graphs/contributors">contributors</a> and <a href="https://github.com/sponsors/jesseduffield">sponsors</a>. If you'd like to sponsor this project and have your avatar or company logo appear below <a href="https://github.com/sponsors/jesseduffield">click here</a>. 💙
-</p>
-
-<p align="center">
-<!-- sponsors --><a href="https://github.com/intabulas"><img src="https://github.com/intabulas.png" width="60px" alt="Mark Lussier" /></a><a href="https://github.com/peppy"><img src="https://github.com/peppy.png" width="60px" alt="Dean Herbert" /></a><a href="https://github.com/piot"><img src="https://github.com/piot.png" width="60px" alt="Peter Bjorklund" /></a><a href="https://github.com/rgwood"><img src="https://github.com/rgwood.png" width="60px" alt="Reilly Wood" /></a><a href="https://github.com/oliverguenther"><img src="https://github.com/oliverguenther.png" width="60px" alt="Oliver Günther" /></a><a href="https://github.com/pawanjay176"><img src="https://github.com/pawanjay176.png" width="60px" alt="Pawan Dhananjay" /></a><a href="https://github.com/bdach"><img src="https://github.com/bdach.png" width="60px" alt="Bartłomiej Dach" /></a><a href="https://github.com/naoey"><img src="https://github.com/naoey.png" width="60px" alt="" /></a><a href="https://github.com/carstengehling"><img src="https://github.com/carstengehling.png" width="60px" alt="Carsten Gehling" /></a><a href="https://github.com/Xetera"><img src="https://github.com/Xetera.png" width="60px" alt="" /></a><a href="https://github.com/nartc"><img src="https://github.com/nartc.png" width="60px" alt="Chau Tran" /></a><a href="https://github.com/matejcik"><img src="https://github.com/matejcik.png" width="60px" alt="matejcik" /></a><a href="https://github.com/lucatume"><img src="https://github.com/lucatume.png" width="60px" alt="theAverageDev (Luca Tumedei)" /></a><a href="https://github.com/IvanZuy"><img src="https://github.com/IvanZuy.png" width="60px" alt="" /></a><a href="https://github.com/nicholascloud"><img src="https://github.com/nicholascloud.png" width="60px" alt="Nicholas Cloud" /></a><a href="https://github.com/ava1ar"><img src="https://github.com/ava1ar.png" width="60px" alt="Aliaksandr Stelmachonak" /></a><a href="https://github.com/bburgy"><img src="https://github.com/bburgy.png" width="60px" alt="Burgy Benjamin" /></a><a href="https://github.com/JoeKlemmer"><img src="https://github.com/JoeKlemmer.png" width="60px" alt="Joe Klemmer" /></a><a href="https://github.com/tobi"><img src="https://github.com/tobi.png" width="60px" alt="Tobias Lütke" /></a><a href="https://github.com/benbfortis"><img src="https://github.com/benbfortis.png" width="60px" alt="Ben Beaumont" /></a><a href="https://github.com/jakewarren"><img src="https://github.com/jakewarren.png" width="60px" alt="" /></a><a href="https://github.com/tgpholly"><img src="https://github.com/tgpholly.png" width="60px" alt="Holly" /></a><a href="https://github.com/socketbox"><img src="https://github.com/socketbox.png" width="60px" alt="Casey Boettcher" /></a><a href="https://github.com/bitprophet"><img src="https://github.com/bitprophet.png" width="60px" alt="Jeff Forcier" /></a><a href="https://github.com/tayleighr"><img src="https://github.com/tayleighr.png" width="60px" alt="" /></a><a href="https://github.com/Novakov"><img src="https://github.com/Novakov.png" width="60px" alt="Maciej T. Nowak" /></a><a href="https://github.com/nekhaevskiy"><img src="https://github.com/nekhaevskiy.png" width="60px" alt="Yury" /></a><a href="https://github.com/reivilibre"><img src="https://github.com/reivilibre.png" width="60px" alt="Olivier 'reivilibre'" /></a><a href="https://github.com/andreaskurth"><img src="https://github.com/andreaskurth.png" width="60px" alt="Andreas Kurth" /></a><a href="https://github.com/BSteffaniak"><img src="https://github.com/BSteffaniak.png" width="60px" alt="Braden Steffaniak" /></a><a href="https://github.com/jordan-gillard"><img src="https://github.com/jordan-gillard.png" width="60px" alt="Jordan Gillard" /></a><a href="https://github.com/smangels"><img src="https://github.com/smangels.png" width="60px" alt="Sebastian" /></a><a href="https://github.com/amslezak"><img src="https://github.com/amslezak.png" width="60px" alt="Andy Slezak" /></a><a href="https://github.com/mkock"><img src="https://github.com/mkock.png" width="60px" alt="Martin Kock" /></a><a href="https://github.com/jessealama"><img src="https://github.com/jessealama.png" width="60px" alt="Jesse Alama" /></a><a href="https://github.com/danielkokott"><img src="https://github.com/danielkokott.png" width="60px" alt="Daniel Kokott" /></a><a href="https://github.com/heijmans"><img src="https://github.com/heijmans.png" width="60px" alt="Jan Heijmans" /></a><a href="https://github.com/knowald"><img src="https://github.com/knowald.png" width="60px" alt="Kevin Nowald" /></a><a href="https://github.com/omarluq"><img src="https://github.com/omarluq.png" width="60px" alt="Omar Alani" /></a><a href="https://github.com/ethanjli"><img src="https://github.com/ethanjli.png" width="60px" alt="Ethan Li" /></a><a href="https://github.com/phubaba"><img src="https://github.com/phubaba.png" width="60px" alt="Robert Forler" /></a><a href="https://github.com/logichaos"><img src="https://github.com/logichaos.png" width="60px" alt="Maxi" /></a><a href="https://github.com/neunkasulle"><img src="https://github.com/neunkasulle.png" width="60px" alt="Jan Zenkner" /></a><a href="https://github.com/RVxLab"><img src="https://github.com/RVxLab.png" width="60px" alt="" /></a><a href="https://github.com/FrederickGeek8"><img src="https://github.com/FrederickGeek8.png" width="60px" alt="Frederick Morlock" /></a><a href="https://github.com/ezdac"><img src="https://github.com/ezdac.png" width="60px" alt="Maximilian Langenfeld" /></a><a href="https://github.com/lppassos"><img src="https://github.com/lppassos.png" width="60px" alt="" /></a><a href="https://github.com/neilcode"><img src="https://github.com/neilcode.png" width="60px" alt="Neil Lambert" /></a><a href="https://github.com/dhh"><img src="https://github.com/dhh.png" width="60px" alt="David Heinemeier Hansson" /></a><a href="https://github.com/ethanfischer"><img src="https://github.com/ethanfischer.png" width="60px" alt="Ethan Fischer" /></a><a href="https://github.com/poshboytl"><img src="https://github.com/poshboytl.png" width="60px" alt="Terry Tai" /></a><a href="https://github.com/roesnera"><img src="https://github.com/roesnera.png" width="60px" alt="Adam Roesner" /></a><a href="https://github.com/seven1m"><img src="https://github.com/seven1m.png" width="60px" alt="Tim Morgan" /></a><a href="https://github.com/sgoridotla1"><img src="https://github.com/sgoridotla1.png" width="60px" alt="Max Shypulniak" /></a><a href="https://github.com/ADIX7"><img src="https://github.com/ADIX7.png" width="60px" alt="Kovács Ádám" /></a><a href="https://github.com/slowdub"><img src="https://github.com/slowdub.png" width="60px" alt="" /></a><a href="https://github.com/serranomorante"><img src="https://github.com/serranomorante.png" width="60px" alt="Patricio Serrano" /></a><a href="https://github.com/kiriDevs"><img src="https://github.com/kiriDevs.png" width="60px" alt="Kiri" /></a><a href="https://github.com/bjornevik"><img src="https://github.com/bjornevik.png" width="60px" alt="John Even Bjørnevik" /></a><a href="https://github.com/moberst"><img src="https://github.com/moberst.png" width="60px" alt="Michael Oberst" /></a><a href="https://github.com/adam-e-trepanier"><img src="https://github.com/adam-e-trepanier.png" width="60px" alt="Adam Trepanier" /></a><a href="https://github.com/arkalon76"><img src="https://github.com/arkalon76.png" width="60px" alt="Kenth Fagerlund" /></a><a href="https://github.com/Djuuu"><img src="https://github.com/Djuuu.png" width="60px" alt="Julien Tardot" /></a><a href="https://github.com/antikytheraton"><img src="https://github.com/antikytheraton.png" width="60px" alt="Aaron Arredondo" /></a><a href="https://github.com/ellord"><img src="https://github.com/ellord.png" width="60px" alt="Ellord Tayag" /></a><a href="https://github.com/EdgarPost"><img src="https://github.com/EdgarPost.png" width="60px" alt="Edgar Post-Buijs" /></a><a href="https://github.com/caillou"><img src="https://github.com/caillou.png" width="60px" alt="Pierre Spring" /></a><a href="https://github.com/mebezac"><img src="https://github.com/mebezac.png" width="60px" alt="Zac Clay" /></a><a href="https://github.com/Tom94"><img src="https://github.com/Tom94.png" width="60px" alt="Thomas Müller" /></a><a href="https://github.com/ccssmnn"><img src="https://github.com/ccssmnn.png" width="60px" alt="Carl Assmann" /></a><a href="https://github.com/ognevsd"><img src="https://github.com/ognevsd.png" width="60px" alt="Sergey Ognev" /></a><a href="https://github.com/moodyhunter"><img src="https://github.com/moodyhunter.png" width="60px" alt="Moody Liu" /></a><a href="https://github.com/elithper"><img src="https://github.com/elithper.png" width="60px" alt="Michael Howard" /></a><a href="https://github.com/LasseBloch"><img src="https://github.com/LasseBloch.png" width="60px" alt="Lasse Bloch Lauritsen" /></a><a href="https://github.com/lmarburger"><img src="https://github.com/lmarburger.png" width="60px" alt="Larry Marburger" /></a><a href="https://github.com/dbrockman"><img src="https://github.com/dbrockman.png" width="60px" alt="David Brockman" /></a><a href="https://github.com/slavshik"><img src="https://github.com/slavshik.png" width="60px" alt="Alexander Slavschik" /></a><a href="https://github.com/aidalgol"><img src="https://github.com/aidalgol.png" width="60px" alt="Aidan Gauland" /></a><a href="https://github.com/mbienkowsk"><img src="https://github.com/mbienkowsk.png" width="60px" alt="Maksym Bieńkowski" /></a><a href="https://github.com/joshuawootonn"><img src="https://github.com/joshuawootonn.png" width="60px" alt="Joshua Wootonn" /></a><a href="https://github.com/I4nJ"><img src="https://github.com/I4nJ.png" width="60px" alt="" /></a><a href="https://github.com/gurbindersingh"><img src="https://github.com/gurbindersingh.png" width="60px" alt="Gurbinder Singh" /></a><a href="https://github.com/sandviklee"><img src="https://github.com/sandviklee.png" width="60px" alt="Simon Sandvik Lee" /></a><a href="https://github.com/glagnar"><img src="https://github.com/glagnar.png" width="60px" alt="Thomas Gilbert" /></a><a href="https://github.com/skrzepto"><img src="https://github.com/skrzepto.png" width="60px" alt="Szymon Mucha" /></a><a href="https://github.com/unnawut"><img src="https://github.com/unnawut.png" width="60px" alt="Unnawut Leepaisalsuwanna" /></a><a href="https://github.com/wortmanb"><img src="https://github.com/wortmanb.png" width="60px" alt="Bret Wortman" /></a><a href="https://github.com/andre-lameirinhas"><img src="https://github.com/andre-lameirinhas.png" width="60px" alt="André Lameirinhas" /></a><a href="https://github.com/SVappsLAB"><img src="https://github.com/SVappsLAB.png" width="60px" alt="Scott Velez" /></a><a href="https://github.com/ooojustin"><img src="https://github.com/ooojustin.png" width="60px" alt="justin" /></a><a href="https://github.com/mayfieldiv"><img src="https://github.com/mayfieldiv.png" width="60px" alt="Mayfield" /></a><a href="https://github.com/somaholiday"><img src="https://github.com/somaholiday.png" width="60px" alt="Soma Holiday" /></a><a href="https://github.com/bizmythy"><img src="https://github.com/bizmythy.png" width="60px" alt="bizmyth" /></a><a href="https://github.com/dessalines"><img src="https://github.com/dessalines.png" width="60px" alt="Dessalines" /></a><a href="https://github.com/KKodiac"><img src="https://github.com/KKodiac.png" width="60px" alt="Sean Hong(홍성민)" /></a><a href="https://github.com/RADreymann"><img src="https://github.com/RADreymann.png" width="60px" alt="Alex Dreymann" /></a><a href="https://github.com/felipeospina21"><img src="https://github.com/felipeospina21.png" width="60px" alt="Felipe Ospina" /></a><a href="https://github.com/riccardoNovaglia"><img src="https://github.com/riccardoNovaglia.png" width="60px" alt="Riccardo Novaglia" /></a><a href="https://github.com/nitipon-apaisri"><img src="https://github.com/nitipon-apaisri.png" width="60px" alt="rxz" /></a><a href="https://github.com/rbuchberger"><img src="https://github.com/rbuchberger.png" width="60px" alt="Robert Buchberger" /></a><!-- sponsors -->
-</p>
 
 ## Elevator Pitch
 
@@ -69,7 +23,6 @@ If you're a mere mortal like me and you're tired of hearing how powerful git is 
 
 ## Table of contents
 
-- [Sponsors](#sponsors)
 - [Elevator Pitch](#elevator-pitch)
 - [Table of contents](#table-of-contents)
 - [Features](#features)
@@ -120,15 +73,10 @@ If you're a mere mortal like me and you're tired of hearing how powerful git is 
   - [Custom Pagers](#custom-pagers)
   - [Custom Commands](#custom-commands)
   - [Git flow support](#git-flow-support)
-- [Contributing](#contributing)
-  - [Debugging Locally](#debugging-locally)
-- [Donate](#donate)
 - [FAQ](#faq)
   - [What do the commit colors represent?](#what-do-the-commit-colors-represent)
-- [Shameless Plug](#shameless-plug)
 - [Alternatives](#alternatives)
 
-Lazygit is not my fulltime job but it is a hefty part time job so if you want to support the project please consider [sponsoring me](https://github.com/sponsors/jesseduffield)
 
 ## Features
 
@@ -579,23 +527,6 @@ See the [docs](docs/Custom_Command_Keybindings.md)
 
 Lazygit supports [Gitflow](https://github.com/nvie/gitflow) if you have it installed. To understand how the Gitflow model works check out Vincent Driessen's original [post](https://nvie.com/posts/a-successful-git-branching-model/) explaining it. To view Gitflow options from within Lazygit, press `i` from within the branches view.
 
-## Contributing
-
-We love your input! Please check out the [contributing guide](CONTRIBUTING.md).
-For contributor discussion about things not better discussed here in the repo, join the [discord channel](https://discord.gg/ehwFt2t4wt)
-
-<a href="https://discord.gg/ehwFt2t4wt"><img src='../assets/discord.png' width='75'></a>
-
-Check out this [video](https://www.youtube.com/watch?v=kNavnhzZHtk) walking through the creation of a small feature in lazygit if you want an idea of where to get started.
-
-### Debugging Locally
-
-Run `lazygit --debug` in one terminal tab and `lazygit --logs` in another to view the program and its log output side by side
-
-## Donate
-
-If you would like to support the development of lazygit, consider [sponsoring me](https://github.com/sponsors/jesseduffield) (github is matching all donations dollar-for-dollar for 12 months)
-
 ## FAQ
 
 ### What do the commit colors represent?
@@ -603,11 +534,6 @@ If you would like to support the development of lazygit, consider [sponsoring me
 - Green: the commit is included in the master branch
 - Yellow: the commit is not included in the master branch
 - Red: the commit has not been pushed to the upstream branch
-
-## Shameless Plug
-
-If you want to see what I (Jesse) am up to in terms of development, follow me on
-[twitter](https://twitter.com/DuffieldJesse) or check out my [blog](https://jesseduffield.com/)
 
 ## Alternatives
 
